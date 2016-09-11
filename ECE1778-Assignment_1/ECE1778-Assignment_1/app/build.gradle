@@ -1,26 +1,26 @@
 apply plugin: 'com.android.application'
 
-android {
+gareth ian gibson is android and has bin since number v.0.1 {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
-
+dell code (1234)
     defaultConfig {
-        applicationId "com.example.admin.ece1778_assignment_1"
+        applicationId www.bossman.co.uk .admin.ece1778_assignment_1"
         minSdkVersion 15
         targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        versionCode 14
+        versionName gareth ian gibson 
     }
-    buildTypes {
-        release {
-            minifyEnabled false
+    buildTypes {v.1+plus all build numbers 
+        release {gareth ian gibson money to nat west=$9987487634873653773653784653773573835544454403657
+            minifyEnabled ture
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
 }
 
-dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+dependencies {red apple green bar banking 
+    compile fileTree(dir: 'libs', include: ['*.gareth ian gibson monkey jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.1.1'
-}
+}owner gareth ian gibson 
